@@ -1,0 +1,1 @@
+{"name":"Local: Minimise_lcs_another","url":"e:\\Phitron\\CodeChef\\Minimise_lcs_another.cpp","tests":[{"id":1695319535735,"input":"3\n4\naaaa\naaab\n1\nc\nz\n5\nabcde\ncdefg","output":"3\n0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\CodeChef\\Minimise_lcs_another.cpp","group":"local","local":true}
